@@ -15,18 +15,7 @@
 -   **Depo Adresi:** [**github.com/MustafaKafali/vetcare-plus**](https://github.com/MustafaKafali/vetcare-plus)
 -   **Temel Özellikler:** Çok rollü yetkilendirme (Hayvan Sahibi, Veteriner), merkezi sağlık kaydı, dinamik randevu sistemi ve profesyonel veteriner araçları.
 -   **Kullanılan Teknolojiler:** `React.js`, `React Router`, `Tailwind CSS`, `React Hook Form`, `Zod`, `Axios` ve `Context API` ile profesyonel bir servis katmanı mimarisi.
-
----
-
-### 💻 Diğer Projelerim
-
--   **Emlak Sitesi:** Django tabanlı, emlak listeleme ve arama özelliklerine sahip bir web uygulaması.
-    -   [Depoyu Görüntüle](https://github.com/MustafaKafali/emlak-sitesi-)
--   **Film Sitesi:** Kullanıcıların filmleri arayabildiği ve detaylarını görebildiği bir platform.
-    -   [Depoyu Görüntüle](https://github.com/MustafaKafali/film-sitesi)
--   **Meva-A:** _(Bu projenin kısa bir açıklamasını buraya ekleyebilirsin)_
-    -   [Depoyu Görüntüle](https://github.com/MustafaKafali/Meva-A-)
-
+ 
 ---
 
 ### 🛠️ Yeteneklerim & Kullandığım Teknolojiler
