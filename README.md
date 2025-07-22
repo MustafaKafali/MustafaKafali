@@ -18,6 +18,12 @@
  
 ---
 
+### 💻 Diğer Projelerim
+
+GitHub profilimde, Python, Django ve React gibi çeşitli teknolojiler kullanarak, farklı problem alanlarına çözümler ürettiğim diğer kişisel projelerimi bulabilirsiniz. Bu projeler, yeni teknolojileri öğrenme ve uygulama sürecimdeki gelişimimi yansıtmaktadır.
+
+---
+
 ### 🛠️ Yeteneklerim & Kullandığım Teknolojiler
 
 <table>
