@@ -22,7 +22,7 @@
 
 GitHub profilimde, Python, DART(Flutter), Django ve React gibi çeşitli teknolojiler kullanarak, farklı problem alanlarına çözümler ürettiğim diğer kişisel projelerimi bulabilirsiniz. Bu projeler, yeni teknolojileri öğrenme ve uygulama sürecimdeki gelişimimi yansıtmaktadır.
 
-**Tüm Projelerim İçin:** [**github.com/MustafaKafali**](https://github.com/MustafaKafali)
+**Tüm Projelerim İçin:** [**github.com/MustafaKafali**](https://github.com/MustafaKafali?tab=repositories)
 ---
 
 ### 🛠️ Yeteneklerim & Kullandığım Teknolojiler
